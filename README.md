@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   ##
  
 <div>  
-  <a href = "mailto:marcosapw.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bnevenuto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/bnevenuto"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://app.rocketseat.com.br/me/bnevenuto"> <img alt="Rocketseat-icon" src=".github/Rocketseat-icon.png" widht="30" height="27.5" target="_blank"> 
 </div>
